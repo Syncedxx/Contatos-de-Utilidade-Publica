@@ -70,6 +70,7 @@ body {
     border-radius: 3px;
     border: none;
     outline: none;
+    background-color: rgba(85, 255, 85, 0.848);
 }
 
 #imagens {
